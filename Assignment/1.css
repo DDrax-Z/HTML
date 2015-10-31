@@ -7,10 +7,9 @@
 
 .bai1
 {
-	width: 680px;
-	height:auto;
+	width: 660px;
+	height:600px;
 	margin:auto;
-	margin-bottom: 50px;
 }
 
 .bai1 div
@@ -87,9 +86,129 @@ font-size: 12px;
 	
 border-top: 1px  #e0e0e0 solid;
 	
-color: #333;
+
 	
 padding-top: 10px;
 	
 padding-bottom: 10px;
+}
+
+.bai1 p a
+{
+	color: #333;
+}
+
+#xahoi
+{
+	margin-left:0px;
+}
+
+.bai1 h3 a:hover
+{
+	text-decoration: underline;
+}
+
+.bai1 div p a:hover
+{
+	text-decoration: underline;
+}
+
+.tinnoibat
+{
+	margin:auto;
+	height: 385px;
+	border-top: 3px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    width: 663px;
+}
+
+.titletinnoibat
+{
+	height: 30px;
+	background-image: url(images/bgtinoibat.png);
+	border-bottom: 1px solid #eee;
+}
+
+.titletinnoibat p
+{
+    color: #666;
+    font-weight: bold;
+    margin: 10px 0 0 10px;
+    background: url(images/cafefmuiten.png) no-repeat right -4px;
+    height: 20px;
+    padding-right: 30px;
+    display:inline-block;
+}
+
+.titletinnoibat span
+{
+	float: right;
+    margin-right: 10px;
+    font-size: 11px;
+    color: #a1a1a1;
+    margin-top: 10px;
+}
+
+.left
+{
+	float: left;
+	margin-top: 10px;
+	width: 308px;
+	margin-left: 10px;
+	padding-bottom: 0px;
+	margin-right: 10px;
+}
+
+.left a img
+{
+	width:305px;
+	
+}
+
+.left h2
+{
+	
+}
+
+.left h2 a 
+{
+	
+color: #003f73;
+	
+font-size: 19px;
+	
+font-weight: bold;
+	
+display: block;
+	
+margin-top: 5px;
+}
+
+.left p 
+{
+	
+margin-top: 5px;
+	
+line-height: 18px;
+	
+font-size: 12px;
+	
+text-align: justify;
+}
+
+.right
+{
+	
+}
+
+.right ul
+{
+	list-style:none;
+}
+
+.right ul li 
+{
+	
 }
