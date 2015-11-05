@@ -113,6 +113,11 @@ padding-bottom: 10px;
 	text-decoration: underline;
 }
 
+.bai3
+{
+	height: 600px;
+}
+
 .tinnoibat
 {
 	margin:auto;
@@ -127,9 +132,10 @@ padding-bottom: 10px;
 .titletinnoibat
 {
 	height: 30px;
-	background-image: url(images/bgtinoibat.png);
+	background-image: url(images/bgtinnoibat.png);
 	border-bottom: 1px solid #eee;
 }
+
 
 .titletinnoibat p
 {
@@ -201,6 +207,17 @@ text-align: justify;
 .right
 {
 	
+float: left;
+	
+border-left: 1px solid #ddd;
+	
+height: 355px;
+	
+padding-left: 10px;
+	
+width: 310px;
+	
+padding-right: 10px;
 }
 
 .right ul
@@ -211,4 +228,642 @@ text-align: justify;
 .right ul li 
 {
 	
+border-bottom: 1px dotted #ddd;
+	
+padding-top: 9px;
+	
+padding-bottom: 9px;
 }
+
+.right ul li span
+{
+	
+background-color: #c00;
+	
+height: 3px;
+	
+width: 3px;
+	
+display: block;
+	
+float: left;
+	
+margin-top: 5px;
+	
+margin-right: 5px;
+}
+
+.right ul li a 
+{
+	
+font-size: 12px;
+	
+color: #004175;
+	
+display: block;
+}
+
+.left h2 a:hover
+{
+	color: #c00;
+}
+
+.right ul li a:hover
+{
+	color:#c00;
+}
+
+#tinnoibatcuoi
+{
+	border-bottom: none;
+}
+
+.bai4
+{
+	height:400px;
+}
+
+.phaidep
+{
+	margin:auto;
+	width: 680px;
+}
+
+.titlephaidep
+{
+	
+height: 35px;
+	
+background-color: #f3f3f3;
+	
+border-top: #dddddd 1px solid;
+	
+margin-bottom: 10px;
+}
+
+.titlephaidep span
+{
+	
+width: 3px;
+	
+background: #3c8872;
+	
+height: 15px;
+	
+display: inline-block;
+	
+margin-right: 5px;
+	
+margin-left: 10px;
+	
+margin-top: 9px;
+}
+
+.titlephaidep h3
+{
+	
+display: inline;
+}
+
+.titlephaidep h3 a
+{
+	
+color: #3c8870;
+	
+font-size: 16px;
+	
+font-family: 'Roboto Condensed', sans-serif;
+	
+font-weight: 700;
+}
+
+.boxphaidep
+{
+	
+width: 215px;
+	
+float: left;
+	
+margin-right: 15px;
+}
+
+.boxphaidep img
+{
+	
+margin-bottom: 5px;
+}
+
+.boxphaidep h4 a 
+{
+	
+font-family: 'Roboto Condensed', sans-serif;
+	
+font-weight: 700;
+	
+font-size: 16px;
+	
+padding-bottom: 5px;
+	
+line-height: 18px;
+	
+color: #444;
+	
+text-align: center;
+	
+display: block;
+}
+
+#phaidepcuoi
+{
+	margin-right:0px;
+}
+
+.bai5
+{
+	
+height: 700px;
+}
+
+
+.boxchuyenmuc
+{
+	width: 655px;
+	height:525px;
+	margin: auto;
+}
+
+.chuyenmuc
+{
+	
+width: 320px;
+	
+height: auto;
+	
+border: 2px #ddd solid;
+	
+padding: 0px 10px 20px 10px;
+	
+float:left;
+	
+margin-right: 14px;
+	
+box-sizing: border-box;
+}
+
+.titlechuyenmuc
+{
+	
+height: 35px;
+	
+border-bottom: 3px #ddd solid;
+	
+padding-top: 10px;
+	
+margin-bottom: 8px;
+}
+
+.titlechuyenmuc h2 a 
+{
+	
+font-family: time new roman;
+	
+text-transform: uppercase;
+	
+font-size: 18px;
+	
+font-weight: bold;
+	
+color: #333;
+}
+
+.chuyenmuclon
+{
+	
+height: 180px;
+	
+border-bottom: 1px #ddd dotted;
+	
+margin-bottom: 10px;
+}
+
+.chuyenmuclon h3
+{
+	
+margin-bottom: 16px;
+}
+
+.chuyenmuclon h3 a 
+{
+	
+font-size: 15px;
+	
+color: #333;
+	
+font-weight: bold;
+}
+
+.chuyenmuclon img
+{
+	
+float: left;
+	
+margin-right: 10px;
+	
+border: 1px solid #ddd;
+	
+padding: 3px;
+}
+
+.chuyenmuclon p 
+{
+line-height: 16px;      font-size: 11px;font-weight: normal;}
+
+.chuyenmucnho
+{
+	
+height: 60px;
+	
+margin-bottom: 20px;
+}
+
+.chuyenmucnho img
+{
+	
+float: left;
+	
+margin-right: 10px;
+}
+
+
+.chuyenmucnho h4 a 
+{
+	
+color: #333;
+	
+line-height: 20px;
+	
+font-size: 12px;
+	
+font-weight: bold;
+}
+
+.listchuyenmuc
+{
+	
+list-style: none;
+}
+
+.listchuyenmuc li
+{
+	
+border-bottom: 1px solid #eee;
+	
+padding-top: 10px;
+	
+padding-right: 0px;
+	
+padding-bottom: 10px;
+	
+margin: 0;
+	
+height: 30px;
+}
+
+.listchuyenmuc li a 
+{
+	
+color: #333;
+	
+line-height: 15px;
+	
+font-size: 12px;
+	
+background-image: url(images/listcafef.png);
+	
+background-repeat: no-repeat;
+	
+padding-left: 10px;
+	
+background-position-y: 2px;
+}
+
+.listchuyenmuc li span
+{
+	
+font-size: 12px;
+	
+color: #999;
+}
+
+#cuoicafef1
+{
+	border-bottom:none;
+}
+
+#cuoicafef2
+{
+	border-bottom:none;
+}
+
+#chuyenmucphai
+{
+	margin-right:0px;
+}
+
+.chuyenmuc a:hover
+{
+	color:red;
+}
+
+.bai6
+{
+	height:600px;
+}
+
+.tieudiem
+{
+	
+height: 465px;
+	
+width: 655px;
+	
+margin: auto;
+}
+
+.tieudiem1
+{
+	
+width: 205px;
+	
+height: 245px;
+	
+float: left;
+	
+margin-right: 20px;
+	
+position: relative;
+}
+
+.tieudiem1 h2 a
+{
+	
+background-image: url(images/opacity1.png);
+	
+color: #fff;
+	
+position: absolute;
+	
+font-weight: bold;
+	
+font-size: 15px;
+	
+display: inline-block;
+	
+padding: 10px;
+	
+bottom: 0px;
+}
+
+.tieudiem2
+{
+	
+float: left;
+	
+height: 245px;
+	
+width: 425px;
+	
+position: relative;
+}
+
+.tieudiem2 h2 a 
+{
+	
+background-image: url(images/opacity1.png);
+	
+color: #fff;
+	
+position: absolute;
+	
+font-weight: bold;
+	
+font-size: 15px;
+	
+display: inline-block;
+	
+padding: 10px;
+	
+bottom: 0px;
+}
+
+.tieudiem3
+{
+	
+width: 205px;
+	
+height: 200px;
+	
+margin-top: 20px;
+	
+float: left;
+	
+margin-right: 20px;
+	
+background-color: #efefef;
+	
+box-sizing: border-box;
+}
+
+
+.tieudiem3 h2 a 
+{
+color: #525252;      
+
+margin: 10px 0 0 10px;            
+
+font-size: 13px;
+
+padding: 0 10px 10px 0px;
+
+display: block;
+
+font-weight: bold;
+}
+
+#tieudiemcuoi
+{
+	margin-right:0px;
+}
+
+.bai7
+{
+	
+width: 740px;
+	
+margin: auto;
+	
+height: 800px;
+	
+font-family: tahoma;
+}
+
+.bai7 h2
+{
+	
+background-image: url(images/icon.png);
+	
+background-position-y: -192px;
+	
+background-repeat: no-repeat;
+	
+padding-left: 30px;
+	
+font-size: 18px;
+	
+font-weight: 500;
+	
+color: #6EB000;
+	
+text-transform: uppercase;
+	
+margin-bottom: 10px;
+}
+
+.bai7 h2 img
+{
+	
+background-image: url(images/icon.png);
+	
+background-position-y: -200px;
+}
+
+.gamekhac
+{
+	
+background: #f8f8f8;
+	
+padding: 10px;
+	
+border: solid 1px #CDCDCD;
+	
+height: 555px;
+}
+
+.titlegame
+{
+	
+list-style: none;
+	
+border-bottom: #ddd 1px solid;
+	
+padding-bottom: 25px;
+	
+margin-bottom: 5px;
+}
+
+.titlegame li
+{
+	
+}
+
+.titlegame li a
+{
+	
+float: left;
+	
+color: #000;
+	
+font-weight: bold;
+	
+margin-right: 15px;
+	
+font-size: 13px;
+}
+
+.contentgame
+{
+	
+list-style: none;
+}
+
+.contentgame li
+{
+	
+width: 220px;
+	
+height: 64px;
+	
+float: left;
+	
+margin-right: 19px;
+	
+margin-top: 15px;
+}
+
+.contentgame li a img 
+{
+	
+height: 64px;
+	
+width: 64px;
+	
+float: left;
+	
+margin-right: 15px;
+}
+
+.contentgame li h3 a 
+{
+	
+color: #333;
+	
+font-size: 13px;
+	
+font-weight: bold;
+	
+line-height: 15px;
+	
+display: block;
+}
+
+.contentgame span
+{
+	
+color: #797979;
+	
+font-size: 11px;
+	
+display: block;
+	
+margin-top: 5px;
+}
+
+.contentgame span a 
+{
+	
+color: #F26522;
+	
+font-size: 11px;
+	
+margin-top: 5px;
+	
+display: block;
+}
+
+.sohaxemthem a
+{
+	
+float: right;
+	
+font-size: 11px;
+	
+color: #75af13;
+	
+margin-top: 38px;
+}
+
+.bai7 a:hover
+{
+	color: #F26522;
+}
+
