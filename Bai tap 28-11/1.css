@@ -1,0 +1,124 @@
+*{margin:0; padding:0;}
+
+.content p a{
+    font-size: 20px;
+    font-family: arial;
+	color: #666;
+	display:block;
+}
+
+.title
+{
+	color: white;
+	background: #333;
+	margin-left: 15px;
+	padding-left: 20px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	margin-bottom: 20px;
+}
+
+.content img
+{
+	width:100%;
+}
+
+.content h4 a
+{
+	color: #e91f01;
+	font-size: 20px;
+	margin-bottom:2px;
+	display:block;
+}
+
+.content h4
+{
+	margin-bottom:2px;
+}
+
+.content p a:hover{
+	color: #e82425;
+	text-decoration: none;
+}
+
+.content h4 a:hover
+{
+	color: #333;
+	text-decoration:none;
+}
+
+.anh img
+{
+	width:100%;
+	position: relative;
+}
+
+.anh nav 
+{
+	background-color: black;
+	opacity: 0.1;
+	position: absolute;
+	bottom: 0px;
+	width: 92%;
+	height: 100%;
+}
+
+.anh:hover nav
+{
+	opacity:0;
+}
+
+.content1 h4
+{
+	font-family: time new roman;
+	font-size: 45px;
+	color: #333;
+}
+
+.content1 p span
+{
+	color: #e91f01;
+}
+
+.content1 p 
+{
+	font-size:22px;
+	color: #666;
+}
+
+.content1 h4:hover
+{
+	color: #e91f01;
+}
+
+.tinduoi
+{
+	margin-top: 30px;
+}
+
+#phan2
+{
+	margin-top: 20px;
+}
+
+
+.content1 b 
+{
+	color: #e91f01;
+	font-size: 22px;
+}
+
+.contentmargin
+{
+	margin-top: 20px;
+}
+
+#tinduoi2
+{
+	margin-top: 10px;
+}
+
+.content1 small
+{
+	font-weight: normal;
+}
