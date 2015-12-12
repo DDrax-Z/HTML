@@ -1,0 +1,35 @@
+*{margin:0; padding:0;}
+
+.cuoi
+{
+	margin-right: 0;
+}
+
+.menu1
+{
+    list-style: none;
+}
+
+.menu1 li a
+{
+    color: #776d51;
+}
+
+.menu1 li
+{
+	margin-right:20px;
+	float:left;
+	margin-top:20px;
+}
+
+#menu1cuoi
+{}
+
+.nenhead1
+{
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #28251d;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
