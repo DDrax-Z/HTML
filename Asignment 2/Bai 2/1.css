@@ -1,0 +1,158 @@
+*{margin:0; padding:0;}
+
+.cuoiphai {
+    margin-top: 10px;
+    display:block;
+    float: right;
+}
+
+.cuoigiua li {
+    float: left;
+    margin-right: 8px;
+}
+
+.cuoigiua ul {
+    list-style: none;
+    width: 195px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.cuoitrai a {
+    color: black;
+}
+
+.cuoitrai ul li {
+    float: left;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.cuoitrai ul {
+    list-style: none;
+}
+
+.tinnho span {
+    font-weight: bold;
+    background-image: url(images/read.png);
+    background-repeat: no-repeat;
+    padding-left: 30px;
+    padding-top: 2px;
+    display: block;
+}
+
+.tinnho img {
+    margin: auto;
+}
+
+.tinnho b {
+    display: block;
+    font-size: 14px;
+    font-weight: normal;
+    color: #777777;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.tinnho h4
+ {
+    font-size: 44px;
+    font-weight: bold;
+    width: 760px;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.menu2 li a 
+{
+	color: #333;
+}
+
+.menu2 li {
+    float: left;
+    margin-right: 20px;
+    font-size: 15px;
+    margin-top: 18px;
+}
+
+ul.menu2 {
+    list-style: none;
+    float: right;
+}
+
+.head2 {
+    height: 60px;
+    background-color: #f8f8f8;
+    border-bottom: 1px #d4d4d4 solid;
+    margin-bottom: 50px;
+}
+
+.menu1 {
+    list-style: none;
+    float: right;
+    color: #ffffff;
+    margin-top: 5px;
+}
+
+.menu1 li {
+    float: left;
+    margin-left: 25px;
+}
+
+.head {
+    background-color: #111111;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.head b {
+    font-size: 24px;
+    color: white;
+}
+
+ #cuoi2
+ {
+	 
+margin-right: 75px;
+	 
+border-bottom: 2px solid #636363;
+	 
+padding-bottom: 19px;
+	}
+	
+	.anh
+	{
+		
+margin: auto;
+		
+width: 325px;
+		
+margin-bottom: 50px;
+	}
+	
+	.tinnho
+	{
+		border-bottom:1px solid #e0e0e0;
+		padding-bottom:45px;
+	}
+	
+	.tincuoi ul{
+    list-style: none;
+    margin: auto;
+    width: 310px;
+    margin-top: 80px;
+}
+	
+	.tincuoi ul li a 
+	{
+    color: black;
+    font-weight: bold;
+}
+	
+	.tincuoi ul li 
+	{float: left;margin-left: 25px;}
+	
+	.tincuoi{
+    padding-bottom: 85px;
+}

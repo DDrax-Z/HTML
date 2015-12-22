@@ -1,0 +1,88 @@
+*{margin:0; padding:0;}
+
+.cuoitrang li {
+    float: left;
+    margin-right: 107px;
+}
+
+.cuoitrang ul {
+    list-style: none;
+    width: 490px;
+    margin: auto;
+}
+
+.cuoitrang {
+    width: 100%;
+    padding-top: 50px;
+    height: 150px;
+    background-color: #1c2024;
+}
+
+.muiten {
+    width: 105px;
+    margin: auto;
+}
+
+.giuatrang p {
+    text-align: center;
+    color: white;
+    margin-top: 25px;
+    font-size: 20px;
+    margin-bottom: 100px;
+}
+
+.anh {
+    width: 300px;
+    border-bottom: 1px solid white;
+    margin: auto;
+    padding-bottom: 25px;
+    padding-left: 90px;
+}
+
+.boc {
+    width: 785px;
+    margin: auto;
+}
+
+.giuatrang {
+    padding-top: 340px;
+    padding-bottom: 115px;
+    width: 100%;
+    background-color: #101418;
+}
+
+.dautrang a {
+    color: white;
+}
+
+.dautrang li {
+    float: left;
+    margin-left: 15px;
+    font-size: 16px;
+    border-right: 1px white solid;
+    padding-right: 15px;
+    height: 12px;
+    line-height: 10px;
+}
+
+.dautrang ul {
+    width: 380px;
+    list-style: none;
+    margin: auto;
+}
+
+.dautrang {
+    height: 85px;
+    width: 100%;
+    background-color: #1c2024;
+    padding-top: 35px;
+}
+
+ #cuoi{
+    border-right: none;
+}
+
+#hinhcuoi
+{
+	margin-right:0;
+}

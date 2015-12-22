@@ -1,0 +1,154 @@
+*{margin:0; padding:0;}
+
+.text3 {
+    color: #a4997b;
+    font-size: 13px;
+}
+
+.cotphai .text2 span {
+    color: #d15100;
+    font-size: 17px;
+}
+
+.cotphai p {
+    font-size: 15px;
+    color: #6f6f6f;
+}
+
+.timkiem1 input[type="submit"] {
+    height: 35px;
+    width: 21%;
+}
+
+.timkiem1 input[type="text"] {
+    height: 35px;
+    width: 75%;
+    margin-right: 10px;
+}
+
+.cotphai {
+    padding-left: 50px;
+}
+
+.cottrai {
+    padding-right: 50px;
+}
+
+.sendmess input[type="submit"] {
+    height: 30px;
+    margin-top: 20px;
+    padding-right: 8px;
+    padding-left: 8px;
+    padding-bottom: 5px;
+    padding-top: 3px;
+    border-radius: 13px;
+    background-color: #e0e0e0;
+}
+
+.ndform input[type="text"] {
+    width: 100%;
+    height: 30px;
+}
+
+.ndform span {
+    font-size: 12px;
+    color: #afafaf;
+    margin-bottom: 20px;
+    display: block;
+    margin-left: 25px;
+}
+
+.ndform p {
+    font-size: 16px;
+    margin-bottom: -5px;
+    color: #6f6f6f;
+    margin-left: 25px;
+    margin-top: -5px;
+}
+
+.text1 {
+    font-size: 14px;
+    color: #6f6f6f;
+    margin-bottom: 70px;
+    margin-left: 25px;
+}
+
+.tieude1 img {
+    float: left;
+    margin-right: 10px;
+}
+
+
+.nencenter1 {
+    background-color: #e0e0e0;
+    padding-bottom: 40px;
+}
+
+nav.tincenter1 {
+    background-color: white;
+    padding-bottom: 80px;
+    height: 580px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-right: 25px;
+    margin-top: -15px;
+}
+
+.cuoitrang
+{
+	margin-right: 0;
+	background-color: #28251d;
+	height: 65px;
+	width: 100%;
+	padding-top:15px;
+}
+
+.menu1
+{
+    list-style: none;
+}
+
+.menu1 li a
+{
+    color: #776d51;
+}
+
+.menu1 li
+{
+	margin-right:20px;
+	float:left;
+	margin-top:20px;
+}
+
+#menu1cuoi
+{
+	background-color: #484336;
+	padding: 5px 10px 5px 10px;
+	border-radius: 20px;
+	margin-top: 15px;
+	margin-left: 0px;
+}
+
+.nenhead1
+{
+    width: 100%;
+    box-sizing: border-box;
+    /* background-color: #28251d; */
+    padding-top: 15px;
+    padding-bottom: 20px;
+    background-image: url(images/nenheader.png);
+    height: 120px;
+}
+
+.tieude1 span
+{
+	font-size:24px;
+	font-weight: bold;
+	display: block;
+	margin-top: 3px;
+}
+
+#inputcuoi
+{
+	height: 140px;
+}
